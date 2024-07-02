@@ -12,7 +12,7 @@ export default function Cards() {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4 rounded px-4  '>Order Now</button>
             </div>
             <img className='max-h-[160px] md:max-h w-full object-cover rounded-xl '
-            src="src/Images/Card-burger-1.jpg" alt="" />
+            src="https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1400&q=60" alt="" />
         </div>
 
          {/* Cards */}
@@ -24,7 +24,7 @@ export default function Cards() {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4 rounded px-4  '>Order Now</button>
             </div>
             <img className='max-h-[160px] md:max-h w-full object-cover rounded-xl '
-            src="src/Images/Card-burger-1.jpg" alt="" />
+            src="https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1400&q=60" alt="" />
         </div>
 
          {/* Cards */}
@@ -36,7 +36,7 @@ export default function Cards() {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-4 rounded px-4 '>Order Now</button>
             </div>
             <img className='max-h-[160px] md:max-h w-full object-cover rounded-xl '
-            src="src/Images/Card-burger-1.jpg" alt=" " />
+            src="https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1cmdlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1400&q=60" alt=" " />
         </div>
          
     </div>
